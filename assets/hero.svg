@@ -1,50 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
   <defs>
-    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
-      <path d="M22 0H0V22" fill="none" stroke="#20262e" stroke-width="1"/>
+    <pattern id="dotgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#30363d" opacity="0.6"/>
     </pattern>
-    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect width="4" height="1" fill="#ffffff" opacity=".025"/>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity="0.02"/>
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset=".55" stop-color="#111820"/>
-      <stop offset="1" stop-color="#0d1117"/>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b10"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#121820"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#388bfd" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#79c0ff" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#c9d1d9"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="330" rx="18" fill="url(#fade)"/>
-  <rect width="1200" height="330" rx="18" fill="url(#grid)" opacity=".55"/>
-  <rect width="1200" height="330" rx="18" fill="url(#scan)"/>
+  <!-- Background Base -->
+  <rect width="1200" height="340" rx="16" fill="url(#bgGrad)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#dotgrid)"/>
+  <rect width="1200" height="340" rx="16" fill="url(#scanlines)"/>
 
-  <g fill="none" stroke="#30363d">
-    <path d="M34 34H1166V296H34Z"/>
-    <path d="M55 54H1145"/>
-    <path d="M55 276H1145"/>
+  <!-- Outer HUD Frame -->
+  <rect x="20" y="20" width="1160" height="300" rx="12" fill="none" stroke="#21262d" stroke-width="1.5"/>
+  <rect x="28" y="28" width="1144" height="284" rx="8" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- Corner Brackets (Pixel/Tech HUD Accents) -->
+  <!-- Top-Left -->
+  <path d="M20 44V20H44" stroke="#58a6ff" stroke-width="3" fill="none"/>
+  <rect x="22" y="22" width="6" height="6" fill="#58a6ff"/>
+  <!-- Top-Right -->
+  <path d="M1180 44V20H1156" stroke="#58a6ff" stroke-width="3" fill="none"/>
+  <rect x="1172" y="22" width="6" height="6" fill="#58a6ff"/>
+  <!-- Bottom-Left -->
+  <path d="M20 296V320H44" stroke="#58a6ff" stroke-width="3" fill="none"/>
+  <rect x="22" y="312" width="6" height="6" fill="#58a6ff"/>
+  <!-- Bottom-Right -->
+  <path d="M1180 296V320H1156" stroke="#58a6ff" stroke-width="3" fill="none"/>
+  <rect x="1172" y="312" width="6" height="6" fill="#58a6ff"/>
+
+  <!-- Top System Header Bar -->
+  <rect x="48" y="44" width="1104" height="32" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <circle cx="68" cy="60" r="5" fill="#3fb950"/>
+  <text x="82" y="65" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Courier New', monospace" font-size="12" font-weight="600" letter-spacing="1.5">SYS://PORTFOLIO_CORE_ONLINE</text>
+  
+  <text x="1132" y="65" text-anchor="end" fill="#58a6ff" font-family="'Courier New', monospace" font-size="12" font-weight="600" letter-spacing="2">KERNEL_v2.6 // 2026.08</text>
+
+  <!-- Main Hero Title -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif">
+    <text x="52" y="148" fill="url(#textGrad)" font-size="52" font-weight="900" letter-spacing="2">RAYNE // MOHAMMAD RAFY</text>
+    <text x="54" y="190" fill="#79c0ff" font-family="'Courier New', monospace" font-size="18" font-weight="600" letter-spacing="2.5">SOFTWARE ENGINEER • GAME ARCHITECT • 3D PIPELINE</text>
   </g>
 
-  <g font-family="'Departure Mono', 'IBM Plex Mono', 'Courier New', monospace">
-    <text x="59" y="83" fill="#7d8590" font-size="16" letter-spacing="2">SYS://PROFILE_NODE_01</text>
-    <text x="1142" y="83" text-anchor="end" fill="#7d8590" font-size="16">ONLINE</text>
+  <!-- Horizontal Divider Line -->
+  <rect x="52" y="212" width="1096" height="2" fill="url(#accentLine)"/>
 
-    <text x="59" y="165" fill="#f0f6fc" font-size="58" letter-spacing="3">RAYNE//LOPE</text>
-    <text x="61" y="205" fill="#8b949e" font-size="17" letter-spacing="1.6">
-      SOFTWARE / GAME DEVELOPMENT / DESIGN
-    </text>
+  <!-- Bottom Pills / Tags -->
+  <g font-family="'Courier New', monospace" font-size="13" font-weight="600">
+    <!-- Tag 1 -->
+    <rect x="52" y="234" width="140" height="30" rx="6" fill="#161b22" stroke="#58a6ff" stroke-width="1"/>
+    <text x="122" y="254" text-anchor="middle" fill="#58a6ff">ROBLOX / LUAU</text>
 
-    <text x="61" y="247" fill="#58a6ff" font-size="15">[ BUILD ]</text>
-    <text x="171" y="247" fill="#7d8590" font-size="15">MOBILE</text>
-    <text x="273" y="247" fill="#7d8590" font-size="15">ROBLOX</text>
-    <text x="380" y="247" fill="#7d8590" font-size="15">WEB</text>
-    <text x="448" y="247" fill="#7d8590" font-size="15">3D</text>
+    <!-- Tag 2 -->
+    <rect x="204" y="234" width="160" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="284" y="254" text-anchor="middle" fill="#c9d1d9">FLUTTER / KOTLIN</text>
 
-    <text x="1142" y="247" text-anchor="end" fill="#484f58" font-size="14">UPNVYK / 2026</text>
+    <!-- Tag 3 -->
+    <rect x="376" y="234" width="160" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="456" y="254" text-anchor="middle" fill="#c9d1d9">NEXT.JS / REACT</text>
+
+    <!-- Tag 4 -->
+    <rect x="548" y="234" width="150" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="623" y="254" text-anchor="middle" fill="#c9d1d9">BLENDER 3D / GL</text>
+
+    <!-- Right Side Location Info -->
+    <rect x="948" y="234" width="200" height="30" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <circle cx="968" cy="249" r="4" fill="#f59e0b"/>
+    <text x="982" y="254" fill="#8b949e" font-size="12">YOGYAKARTA, ID [7°S]</text>
   </g>
 
-  <g fill="#58a6ff">
-    <rect x="34" y="34" width="8" height="8"/>
-    <rect x="1158" y="34" width="8" height="8"/>
-    <rect x="34" y="288" width="8" height="8"/>
-    <rect x="1158" y="288" width="8" height="8"/>
+  <!-- Decorative Matrix / ASCII Micro-Grid on Right -->
+  <g fill="#30363d" font-family="'Courier New', monospace" font-size="10">
+    <text x="1120" y="130" text-anchor="end">01001111</text>
+    <text x="1120" y="145" text-anchor="end">01010000</text>
+    <text x="1120" y="160" text-anchor="end">01000101</text>
+    <text x="1120" y="175" text-anchor="end">01001110</text>
   </g>
 </svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70">
+  <rect width="1200" height="70" rx="10" fill="#0d1117"/>
+  <rect x="0" y="0" width="1200" height="70" rx="10" fill="none" stroke="#21262d" stroke-width="1.5"/>
+  <rect x="16" y="16" width="6" height="38" fill="#a371f7" rx="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Courier New', monospace">
+    <text x="36" y="44" fill="#f0f6fc" font-size="20" font-weight="800" letter-spacing="2">04 // MY STACKS &amp; SYSTEM TOOLCHAIN</text>
+    <text x="510" y="43" fill="#8b949e" font-size="13" letter-spacing="1">[ PRODUCTION ARSENAL, RUNTIMES &amp; WORKFLOWS ]</text>
+    <text x="1170" y="43" text-anchor="end" fill="#a371f7" font-family="'Courier New', monospace" font-size="13" font-weight="600">SYS_CONFIG</text>
+  </g>
+  <line x1="36" y1="56" x2="1170" y2="56" stroke="#21262d" stroke-width="1"/>
+</svg>
