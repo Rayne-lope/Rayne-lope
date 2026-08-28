@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<defs>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#fff" opacity=".02"/>
+  </pattern>
+</defs>
+<rect width="1200" height="110" fill="#0d1117"/>
+<rect width="1200" height="110" fill="url(#scan)"/>
+<g font-family="'Departure Mono','IBM Plex Mono','Courier New',monospace">
+  <text x="30" y="44" fill="#f0f6fc" font-size="22" letter-spacing="2">END OF TRANSMISSION_</text>
+  <text x="30" y="73" fill="#7d8590" font-size="14">BUILD / ITERATE / SHIP / REPEAT</text>
+  <text x="1170" y="44" text-anchor="end" fill="#58a6ff" font-size="15">NODE: RAYNE-LOPE</text>
+  <text x="1170" y="73" text-anchor="end" fill="#484f58" font-size="14">STATUS // ACTIVE</text>
+</g>
+</svg>

@@ -5,15 +5,16 @@
 <br/>
 
 <code>PROFILE://MOHAMMAD_RAFY_RAHMAWAN</code>
-  
+&nbsp;&nbsp;
 <code>STATUS://BUILDING</code>
-  
+&nbsp;&nbsp;
 <code>LOC://YOGYAKARTA.ID</code>
 
 </div>
 
 <br/>
 
+```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │  HELLO, WORLD.                                                              │
 ├──────────────────────────────────────────────────────────────────────────────┤
@@ -21,12 +22,13 @@
 │  experiences. I work across mobile development, Roblox, web systems,        │
 │  UI/UX, and 3D workflows — usually turning an idea into something usable.   │
 └──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-01 // IDENTITY
+### `01 // IDENTITY`
 
 <img src="https://img.shields.io/badge/Information_Systems-0D1117?style=flat-square&logo=bookstack&logoColor=58A6FF" alt="Information Systems"/>
 
@@ -39,7 +41,7 @@ Software / Game / Product
 </td>
 <td width="33%" valign="top">
 
-02 // CURRENT
+### `02 // CURRENT`
 
 <img src="https://img.shields.io/badge/JOMBI-0D1117?style=flat-square&logo=robloxstudio&logoColor=F0F6FC" alt="JOMBI"/>
 
@@ -52,7 +54,7 @@ Premium camera application.
 </td>
 <td width="33%" valign="top">
 
-03 // INTERESTS
+### `03 // INTERESTS`
 
 <img src="https://img.shields.io/badge/Game_Development-0D1117?style=flat-square&logo=itchdotio&logoColor=FA5C5C" alt="Game Development"/>
 
@@ -80,7 +82,7 @@ Premium camera application.
 
 Top-down co-op zombie survival game for Roblox. Tactical combat, exploration, role-based team play, custom UI/UX, and a stylized post-apocalyptic world.
 
-Luau Roblox Blender
+`Luau` `Roblox` `Blender`
 
 </td>
 <td width="33%" valign="top">
@@ -93,7 +95,7 @@ Luau Roblox Blender
 
 Android camera application focused on real-time rendering, image processing, custom camera systems, and a refined analog-inspired interface.
 
-Flutter Kotlin CameraX OpenGL
+`Flutter` `Kotlin` `CameraX` `OpenGL`
 
 </td>
 <td width="33%" valign="top">
@@ -106,7 +108,7 @@ Flutter Kotlin CameraX OpenGL
 
 Village information platform developed for KKN Karangtalun, covering local information, activities, gallery content, and community potential.
 
-Next.js TypeScript Tailwind
+`Next.js` `TypeScript` `Tailwind`
 
 </td>
 </tr>
@@ -114,7 +116,7 @@ Next.js TypeScript Tailwind
 
 <br/>
 
-// TOOLCHAIN
+## `// TOOLCHAIN`
 
 <div align="center">
 
@@ -122,16 +124,17 @@ Next.js TypeScript Tailwind
 
 <br/><br/>
 
-<code>MOBILE</code>  
-<code>GAME DEV</code>  
-<code>WEB</code>  
-<code>UI/UX</code>  
+<code>MOBILE</code>&nbsp;&nbsp;
+<code>GAME DEV</code>&nbsp;&nbsp;
+<code>WEB</code>&nbsp;&nbsp;
+<code>UI/UX</code>&nbsp;&nbsp;
 <code>3D PIPELINE</code>
 
 </div>
 
 <br/>
 
+```text
 SYSTEM_MAP
 ├── mobile/
 │   ├── Flutter
@@ -151,10 +154,11 @@ SYSTEM_MAP
 └── design/
     ├── Figma
     └── product systems
+```
 
 <br/>
 
-// ACTIVITY_LOG
+## `// ACTIVITY_LOG`
 
 <div align="center">
 
@@ -169,8 +173,9 @@ SYSTEM_MAP
 
 <br/>
 
-// ACTIVE_OBJECTIVES
+## `// ACTIVE_OBJECTIVES`
 
+```text
 [01] JOMBI
      └─ gameplay systems / maps / combat / UI / asset pipeline
 
@@ -179,6 +184,7 @@ SYSTEM_MAP
 
 [03] 3D + GAME PIPELINE
      └─ Blender workflows / Roblox assets / environment design
+```
 
 <br/>
 

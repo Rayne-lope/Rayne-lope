@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#20262e" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity=".025"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset=".55" stop-color="#111820"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="330" rx="18" fill="url(#fade)"/>
+  <rect width="1200" height="330" rx="18" fill="url(#grid)" opacity=".55"/>
+  <rect width="1200" height="330" rx="18" fill="url(#scan)"/>
+
+  <g fill="none" stroke="#30363d">
+    <path d="M34 34H1166V296H34Z"/>
+    <path d="M55 54H1145"/>
+    <path d="M55 276H1145"/>
+  </g>
+
+  <g font-family="'Departure Mono', 'IBM Plex Mono', 'Courier New', monospace">
+    <text x="59" y="83" fill="#7d8590" font-size="16" letter-spacing="2">SYS://PROFILE_NODE_01</text>
+    <text x="1142" y="83" text-anchor="end" fill="#7d8590" font-size="16">ONLINE</text>
+
+    <text x="59" y="165" fill="#f0f6fc" font-size="58" letter-spacing="3">RAYNE//LOPE</text>
+    <text x="61" y="205" fill="#8b949e" font-size="17" letter-spacing="1.6">
+      SOFTWARE / GAME DEVELOPMENT / DESIGN
+    </text>
+
+    <text x="61" y="247" fill="#58a6ff" font-size="15">[ BUILD ]</text>
+    <text x="171" y="247" fill="#7d8590" font-size="15">MOBILE</text>
+    <text x="273" y="247" fill="#7d8590" font-size="15">ROBLOX</text>
+    <text x="380" y="247" fill="#7d8590" font-size="15">WEB</text>
+    <text x="448" y="247" fill="#7d8590" font-size="15">3D</text>
+
+    <text x="1142" y="247" text-anchor="end" fill="#484f58" font-size="14">UPNVYK / 2026</text>
+  </g>
+
+  <g fill="#58a6ff">
+    <rect x="34" y="34" width="8" height="8"/>
+    <rect x="1158" y="34" width="8" height="8"/>
+    <rect x="34" y="288" width="8" height="8"/>
+    <rect x="1158" y="288" width="8" height="8"/>
+  </g>
+</svg>
