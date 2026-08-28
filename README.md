@@ -96,7 +96,7 @@ Designing tactile product interfaces, design systems, and optimized 3D game asse
 ### `001 // JOMBI`
 
 <a href="https://github.com/Rayne-lope/zombie-roblox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=zombie-roblox&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="JOMBI repository"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=zombie-roblox&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="JOMBI repository"/>
 </a>
 
 Top-down tactical co-op zombie survival game built on Roblox. Features weapon mechanics, custom inventory, wave progression, and post-apocalyptic 3D assets.
@@ -109,7 +109,7 @@ Top-down tactical co-op zombie survival game built on Roblox. Features weapon me
 ### `002 // RANA`
 
 <a href="https://github.com/Rayne-lope/rana">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=rana&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Rana repository"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=rana&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Rana repository"/>
 </a>
 
 Pro Android camera application engineered for real-time image processing, custom GL shaders, analog-inspired tactile controls, and low-latency capture.
@@ -122,7 +122,7 @@ Pro Android camera application engineered for real-time image processing, custom
 ### `003 // KARANGTALUN`
 
 <a href="https://github.com/Rayne-lope/Karangtalun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=Karangtalun&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Karangtalun repository"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=Karangtalun&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Karangtalun repository"/>
 </a>
 
 Official village information ecosystem & web platform built for KKN Karangtalun, providing local services, GIS mapping, news feed, and cultural galleries.
@@ -228,13 +228,13 @@ SYSTEM_MAP
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rayne-lope&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Rayne-lope&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayne-lope&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rayne-lope&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rayne-lope&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=172A46" alt="Contribution Activity Graph"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=Rayne-lope&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E" alt="Contribution Activity Streak"/>
 
 </div>
 

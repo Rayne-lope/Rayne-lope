@@ -25,19 +25,13 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Courier New', monospace" font-size="13">
     <!-- Quick Nav -->
     <text x="40" y="195" fill="#8b949e" font-weight="600">
-      <tspan fill="#58a6ff">NAV://</tspan>&nbsp;&nbsp;
-      <tspan fill="#c9d1d9">Services</tspan>&nbsp;&nbsp;•&nbsp;&nbsp;
-      <tspan fill="#c9d1d9">Showcase</tspan>&nbsp;&nbsp;•&nbsp;&nbsp;
-      <tspan fill="#c9d1d9">Experience</tspan>&nbsp;&nbsp;•&nbsp;&nbsp;
-      <tspan fill="#c9d1d9">Stacks</tspan>&nbsp;&nbsp;•&nbsp;&nbsp;
-      <tspan fill="#c9d1d9">Contact</tspan>
+      <tspan fill="#58a6ff">NAV://</tspan>
+      <tspan fill="#c9d1d9">  Services  •  Showcase  •  Experience  •  Stacks  •  Contact</tspan>
     </text>
 
     <!-- Status & Specs Right -->
     <text x="1160" y="195" text-anchor="end" fill="#8b949e" font-family="'Courier New', monospace">
-      <tspan fill="#3fb950">● ONLINE</tspan>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <tspan fill="#f0f6fc">NODE_RAYNE_LOPE</tspan>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <tspan fill="#8b949e">YOGYAKARTA.ID</tspan>
+      <tspan fill="#3fb950">● ONLINE</tspan>  |  <tspan fill="#f0f6fc">NODE_RAYNE_LOPE</tspan>  |  <tspan fill="#8b949e">YOGYAKARTA.ID</tspan>
     </text>
 
     <!-- Bottom Copyright & Philosophy Note -->
