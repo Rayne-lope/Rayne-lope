@@ -1,86 +1,112 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:161B22,100:1F6FEB&text=MOHAMMAD%20RAFY%20RAHMAWAN&fontColor=F0F6FC&fontSize=38&fontAlignY=38&desc=Information%20Systems%20%E2%80%A2%20Software%20%E2%80%A2%20Game%20Development&descAlignY=58&descSize=16&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Information Systems student at UPN "Veteran" Yogyakarta.</strong><br/>
-  Building mobile apps, games, and web experiences with a focus on product feel, visual quality, and practical engineering.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rayne-lope?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-  </a>
-  <a href="https://github.com/Rayne-lope">
-    <img src="https://img.shields.io/badge/RAYNE--LOPE-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Rayne Lope profile header"/>
 
 <br/>
 
-Selected Work
+<code>PROFILE://MOHAMMAD_RAFY_RAHMAWAN</code>
+  
+<code>STATUS://BUILDING</code>
+  
+<code>LOC://YOGYAKARTA.ID</code>
+
+</div>
+
+<br/>
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  HELLO, WORLD.                                                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│  Information Systems student building software, games, and digital          │
+│  experiences. I work across mobile development, Roblox, web systems,        │
+│  UI/UX, and 3D workflows — usually turning an idea into something usable.   │
+└──────────────────────────────────────────────────────────────────────────────┘
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-Rana
+01 // IDENTITY
 
-Premium Android camera application focused on real-time image processing, custom camera rendering, and a minimal analog-inspired interface.
+<img src="https://img.shields.io/badge/Information_Systems-0D1117?style=flat-square&logo=bookstack&logoColor=58A6FF" alt="Information Systems"/>
 
-Flutter Dart Kotlin CameraX OpenGL
+UPN "Veteran" Yogyakarta
 
-<a href="https://github.com/Rayne-lope/rana">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=rana&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Rana repository"/>
-</a>
+<img src="https://img.shields.io/badge/Developer-0D1117?style=flat-square&logo=github&logoColor=F0F6FC" alt="Developer"/>
+
+Software / Game / Product
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-JOMBI
+02 // CURRENT
 
-Top-down co-op zombie survival game for Roblox with tactical combat, exploration, role-based team play, and a stylized post-apocalyptic presentation.
+<img src="https://img.shields.io/badge/JOMBI-0D1117?style=flat-square&logo=robloxstudio&logoColor=F0F6FC" alt="JOMBI"/>
 
-Roblox Luau Blender Game Design
+Top-down co-op zombie survival.
+
+<img src="https://img.shields.io/badge/Rana-0D1117?style=flat-square&logo=android&logoColor=3DDC84" alt="Rana"/>
+
+Premium camera application.
+
+</td>
+<td width="33%" valign="top">
+
+03 // INTERESTS
+
+<img src="https://img.shields.io/badge/Game_Development-0D1117?style=flat-square&logo=itchdotio&logoColor=FA5C5C" alt="Game Development"/>
+
+<img src="https://img.shields.io/badge/Mobile-0D1117?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Mobile"/>
+
+<img src="https://img.shields.io/badge/3D-0D1117?style=flat-square&logo=blender&logoColor=F5792A" alt="3D"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/projects-divider.svg" width="100%" alt="Latest projects"/>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<h3 align="left"><code>001 // JOMBI</code></h3>
 
 <a href="https://github.com/Rayne-lope/zombie-roblox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=zombie-roblox&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="JOMBI repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=zombie-roblox&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="JOMBI repository"/>
 </a>
 
+Top-down co-op zombie survival game for Roblox. Tactical combat, exploration, role-based team play, custom UI/UX, and a stylized post-apocalyptic world.
+
+Luau Roblox Blender
+
 </td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+<h3 align="left"><code>002 // RANA</code></h3>
 
-Karangtalun
+<a href="https://github.com/Rayne-lope/rana">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=rana&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Rana repository"/>
+</a>
 
-Village information platform built for KKN Karangtalun, covering public information, activities, gallery content, and local potential.
+Android camera application focused on real-time rendering, image processing, custom camera systems, and a refined analog-inspired interface.
 
-Next.js TypeScript Tailwind CSS Supabase
+Flutter Kotlin CameraX OpenGL
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="left"><code>003 // KARANGTALUN</code></h3>
 
 <a href="https://github.com/Rayne-lope/Karangtalun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=Karangtalun&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Karangtalun repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rayne-lope&repo=Karangtalun&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Karangtalun repository"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+Village information platform developed for KKN Karangtalun, covering local information, activities, gallery content, and community potential.
 
-Current Direction
-
-Building products across several areas:
-
-Mobile application development
-
-Roblox game development
-
-Real-time rendering and camera systems
-
-3D asset workflows with Blender
-
-Web application development
-
-UI/UX and product design
+Next.js TypeScript Tailwind
 
 </td>
 </tr>
@@ -88,64 +114,80 @@ UI/UX and product design
 
 <br/>
 
-Technology
+// TOOLCHAIN
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,js,nextjs,tailwind,git,figma,blender,lua&theme=dark&perline=11" alt="Technology stack"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=54C5F8" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Blender-0D1117?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Luau-0D1117?style=flat-square&logo=lua&logoColor=5C9BD5" alt="Luau"/>
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,ts,js,nextjs,tailwind,git,github,figma,blender,lua&theme=dark&perline=12" alt="Technology stack"/>
 
-<br/>
+<br/><br/>
 
-GitHub Activity
+<code>MOBILE</code>  
+<code>GAME DEV</code>  
+<code>WEB</code>  
+<code>UI/UX</code>  
+<code>3D PIPELINE</code>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rayne-lope&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayne-lope&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rayne-lope&theme=github-compact&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB" alt="Contribution graph"/>
-</p>
+</div>
 
 <br/>
 
-Focus
-
-<table>
-<tr>
-<td><strong>01</strong></td>
-<td><strong>JOMBI</strong></td>
-<td>Combat systems, level design, multiplayer gameplay, UI/UX, and asset pipeline.</td>
-</tr>
-<tr>
-<td><strong>02</strong></td>
-<td><strong>Rana</strong></td>
-<td>Camera rendering, image processing, native Android integration, and premium mobile UX.</td>
-</tr>
-<tr>
-<td><strong>03</strong></td>
-<td><strong>3D / Game Pipeline</strong></td>
-<td>Blender procedural workflows, Roblox-ready assets, animation, and environment design.</td>
-</tr>
-</table>
+SYSTEM_MAP
+├── mobile/
+│   ├── Flutter
+│   ├── Dart
+│   └── Kotlin
+│
+├── game/
+│   ├── Roblox
+│   ├── Luau
+│   └── Blender
+│
+├── web/
+│   ├── TypeScript
+│   ├── Next.js
+│   └── Tailwind CSS
+│
+└── design/
+    ├── Figma
+    └── product systems
 
 <br/>
 
-<p align="center">
-  <sub>BUILD &nbsp;&nbsp;•&nbsp;&nbsp; ITERATE &nbsp;&nbsp;•&nbsp;&nbsp; SHIP</sub>
-</p>
+// ACTIVITY_LOG
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:161B22,100:1F6FEB&section=footer" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayne-lope&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayne-lope&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top languages"/>
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rayne-lope&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=172A46" alt="Contribution activity"/>
+
+</div>
+
+<br/>
+
+// ACTIVE_OBJECTIVES
+
+[01] JOMBI
+     └─ gameplay systems / maps / combat / UI / asset pipeline
+
+[02] RANA
+     └─ camera rendering / image processing / Android integration
+
+[03] 3D + GAME PIPELINE
+     └─ Blender workflows / Roblox assets / environment design
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/city.gif" width="100%" alt="Pixel city footer"/>
+
+<img src="./assets/footer.svg" width="100%" alt="End of transmission"/>
+
+<sub><code>© 2026 // RAYNE-LOPE // ALL SYSTEMS NOMINAL</code></sub>
+
+</div>
