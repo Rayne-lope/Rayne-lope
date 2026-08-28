@@ -10,7 +10,7 @@
 &nbsp;&nbsp;
 <code>LOC://YOGYAKARTA.ID</code>
 &nbsp;&nbsp;
-<code>KERNEL://v2.6</code>
+<code>KERNEL://v2.6_MONO</code>
 
 </div>
 
@@ -96,7 +96,7 @@ Designing tactile product interfaces, design systems, and optimized 3D game asse
 ### `001 // JOMBI`
 
 <a href="https://github.com/Rayne-lope/zombie-roblox">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=zombie-roblox&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="JOMBI repository"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=zombie-roblox&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" width="100%" alt="JOMBI repository"/>
 </a>
 
 Top-down tactical co-op zombie survival game built on Roblox. Features weapon mechanics, custom inventory, wave progression, and post-apocalyptic 3D assets.
@@ -109,7 +109,7 @@ Top-down tactical co-op zombie survival game built on Roblox. Features weapon me
 ### `002 // RANA`
 
 <a href="https://github.com/Rayne-lope/rana">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=rana&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Rana repository"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=rana&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" width="100%" alt="Rana repository"/>
 </a>
 
 Pro Android camera application engineered for real-time image processing, custom GL shaders, analog-inspired tactile controls, and low-latency capture.
@@ -122,7 +122,7 @@ Pro Android camera application engineered for real-time image processing, custom
 ### `003 // KARANGTALUN`
 
 <a href="https://github.com/Rayne-lope/Karangtalun">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=Karangtalun&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" width="100%" alt="Karangtalun repository"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Rayne-lope&repo=Karangtalun&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" width="100%" alt="Karangtalun repository"/>
 </a>
 
 Official village information ecosystem & web platform built for KKN Karangtalun, providing local services, GIS mapping, news feed, and cultural galleries.
@@ -136,7 +136,7 @@ Official village information ecosystem & web platform built for KKN Karangtalun,
 <div align="center">
   <br/>
   <a href="https://github.com/Rayne-lope?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_↗-161B22?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="Explore All Repositories"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_↗-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="Explore All Repositories"/>
   </a>
 </div>
 
@@ -228,14 +228,14 @@ SYSTEM_MAP
 
 <br/>
 
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Rayne-lope&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Rayne-lope&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rayne-lope&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rayne-lope&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Top Languages"/>
 
 <br/><br/>
 
 <a href="https://github.com/Rayne-lope">
-  <img width="100%" src="https://ghchart.rshah.org/58A6FF/Rayne-lope" alt="Contribution Activity Matrix"/>
+  <img width="100%" src="https://ghchart.rshah.org/FFFFFF/Rayne-lope" alt="Contribution Activity Matrix"/>
 </a>
 
 </div>
@@ -264,7 +264,7 @@ SYSTEM_MAP
 <td width="28%" align="center" valign="middle">
 
 <a href="mailto:rapirahmawan@gmail.com?subject=Collaboration%20Inquiry%20from%20GitHub&body=Hi%20Rafy,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20love%20to%20collaborate%20with%20you!">
-  <img src="https://img.shields.io/badge/Deploy_the_System_↗-F0E6D2?style=for-the-badge&logo=rocket&logoColor=0D1117&labelColor=F0E6D2" alt="Deploy the System"/>
+  <img src="https://img.shields.io/badge/Deploy_the_System_↗-FFFFFF?style=for-the-badge&logo=rocket&logoColor=0D1117&labelColor=FFFFFF" alt="Deploy the System"/>
 </a>
 
 <br/><br/>
@@ -283,9 +283,9 @@ SYSTEM_MAP
 <div align="center">
   <br/>
   <a href="https://github.com/Rayne-lope"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
-  <a href="mailto:rapirahmawan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>&nbsp;
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>&nbsp;
+  <a href="mailto:rapirahmawan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
   <a href="https://x.com"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <br/><br/>
   <sub><code>© 2026 RAYNE LOPE // MOHAMMAD RAFY RAHMAWAN // ALL SYSTEMS NOMINAL</code></sub>

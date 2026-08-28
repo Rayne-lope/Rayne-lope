@@ -6,7 +6,7 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
     </linearGradient>
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="0%" stop-color="#080b10"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
@@ -15,7 +15,7 @@
   <rect width="1200" height="240" rx="14" fill="url(#cardBg)"/>
   <rect width="1200" height="240" rx="14" fill="none" stroke="#21262d" stroke-width="1.5"/>
 
-  <!-- Giant Ghosted Typographic Watermark (Matching Reference 2 'Accelerate' Style) -->
+  <!-- Giant Ghosted Typographic Watermark -->
   <text x="40" y="150" fill="url(#wmGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Impact', sans-serif" font-size="140" font-weight="900" letter-spacing="-3">ACCELERATE</text>
 
   <!-- Top Divider / Baseline -->
@@ -25,20 +25,20 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Courier New', monospace" font-size="13">
     <!-- Quick Nav -->
     <text x="40" y="195" fill="#8b949e" font-weight="600">
-      <tspan fill="#58a6ff">NAV://</tspan>
+      <tspan fill="#ffffff">NAV://</tspan>
       <tspan fill="#c9d1d9">  Services  •  Showcase  •  Experience  •  Stacks  •  Contact</tspan>
     </text>
 
     <!-- Status & Specs Right -->
     <text x="1160" y="195" text-anchor="end" fill="#8b949e" font-family="'Courier New', monospace">
-      <tspan fill="#3fb950">● ONLINE</tspan>  |  <tspan fill="#f0f6fc">NODE_RAYNE_LOPE</tspan>  |  <tspan fill="#8b949e">YOGYAKARTA.ID</tspan>
+      <tspan fill="#ffffff">● ONLINE</tspan>  |  <tspan fill="#f0f6fc">NODE_RAYNE_LOPE</tspan>  |  <tspan fill="#8b949e">YOGYAKARTA.ID</tspan>
     </text>
 
     <!-- Bottom Copyright & Philosophy Note -->
     <text x="40" y="222" fill="#484f58" font-size="11" font-family="'Courier New', monospace">
       © 2026 MOHAMMAD RAFY RAHMAWAN // ALL RIGHTS RESERVED // BUILT WITH INTENT &amp; PRECISION
     </text>
-    <text x="1160" y="222" text-anchor="end" fill="#58a6ff" font-size="11" font-family="'Courier New', monospace">
+    <text x="1160" y="222" text-anchor="end" fill="#ffffff" font-size="11" font-family="'Courier New', monospace">
       [ END_OF_FILE // TRANSMISSION_TERMINATED ]
     </text>
   </g>
