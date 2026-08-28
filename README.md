@@ -234,7 +234,9 @@ SYSTEM_MAP
 
 <br/><br/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=Rayne-lope&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=F0F6FC&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E" alt="Contribution Activity Streak"/>
+<a href="https://github.com/Rayne-lope">
+  <img width="100%" src="https://ghchart.rshah.org/58A6FF/Rayne-lope" alt="Contribution Activity Matrix"/>
+</a>
 
 </div>
 
